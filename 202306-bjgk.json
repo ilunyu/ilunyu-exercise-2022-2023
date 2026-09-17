@@ -16,40 +16,48 @@
     },
     {
       "type": "material",
+      "blocktitle": "材料①",
       "sourceid": 1328,
+      "sourcename": "《论语·卫灵公》",
       "paragraphs": [
         {
-          "text": "①子曰：“君子疾没世而名不称焉。”（《论语·卫灵公》）",
+          "text": "子曰：“君子疾没世而名不称焉。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料②",
       "sourceid": 1329,
+      "sourcename": "《论语·卫灵公》",
       "paragraphs": [
         {
-          "text": "②子曰：“君子病无能焉，不病人之不已知也。”（《论语·卫灵公》）",
+          "text": "子曰：“君子病无能焉，不病人之不已知也。”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料③",
       "sourceid": 1330,
+      "sourcename": "《史记·孔子世家》",
       "paragraphs": [
         {
-          "text": "③子曰：“君子病没世而名不称焉。吾道不行矣，吾何以自见于后世哉？”（《史记·孔子世家》）",
+          "text": "子曰：“君子病没世而名不称焉。吾道不行矣，吾何以自见于后世哉？”",
           "format": {}
         }
       ]
     },
     {
       "type": "material",
+      "blocktitle": "材料④",
       "sourceid": -1,
+      "sourcename": "《传习录》",
       "paragraphs": [
         {
-          "text": "④先生（王阳明）曰：“为学大病在好名。……‘疾没世而名不称’，‘称’字去声①读，亦‘声闻过情，君子耻之’②之意。”（《传习录》）",
+          "text": "先生（王阳明）曰：“为学大病在好名。……‘疾没世而名不称’，‘称’字去声①读，亦‘声闻过情，君子耻之’②之意。”",
           "format": {}
         }
       ]

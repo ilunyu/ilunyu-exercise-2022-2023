@@ -1,0 +1,226 @@
+{
+  "id": "202301-cygsqm",
+  "title": "2023·朝阳高三期末",
+  "year": "2022-2023",
+  "month": 202301,
+  "source": "朝阳",
+  "grade": 3,
+  "type": "期末",
+  "number": 11,
+  "score": 10,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，根据要求，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 1326,
+      "sourcename": "《子路》",
+      "paragraphs": [
+        {
+          "text": "子曰：“刚、毅、木、讷近仁。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）请分别结合下列语录，概括“刚”“毅”“木”“讷”四种品德的特点。（4  分）",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 511,
+      "sourcename": "《公冶长》",
+      "paragraphs": [
+        {
+          "text": "子曰：“吾未见刚者。”或对曰：“申枨。”子曰：“枨也欲，焉得刚？”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 807,
+      "sourcename": "《泰伯》",
+      "paragraphs": [
+        {
+          "text": "曾子曰：“士不可以不弘毅，任重而道远。仁以为己任，不亦重乎？死而后已，不亦远乎？”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料④",
+      "sourceid": 618,
+      "sourcename": "《雍也》",
+      "paragraphs": [
+        {
+          "text": "子曰：“质胜文则野，文胜质则史。文质彬彬，然后君子。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料⑤",
+      "sourceid": 424,
+      "sourcename": "《里仁》",
+      "paragraphs": [
+        {
+          "text": "子曰：“君子欲讷于言而敏于行。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "刚：　　①　　　毅：　　②　　",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        },
+        "marks": {
+          "underline": [
+            {
+              "start": 2,
+              "end": 7
+            },
+            {
+              "start": 10,
+              "end": 15
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "木：　　③　　　讷：　　④　　",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        },
+        "marks": {
+          "underline": [
+            {
+              "start": 2,
+              "end": 7
+            },
+            {
+              "start": 10,
+              "end": 15
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "（2）请从“刚”“毅”“木”“讷”四种品德中任选两种,结合下列语录（任选）分析它们为什么“近仁”。（6 分）",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 103,
+      "sourcename": "《学而》",
+      "paragraphs": [
+        {
+          "text": "子曰：“巧言令色，鲜矣仁！”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 622,
+      "sourcename": "《雍也》",
+      "paragraphs": [
+        {
+          "text": "问仁。曰：“仁者先难而后获，可谓仁矣。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1201,
+      "sourcename": "《颜渊》",
+      "paragraphs": [
+        {
+          "text": "颜渊问仁。子曰：“克己复礼为仁。一日克己复礼，天下归仁焉。为仁由己，而由人乎哉？”颜渊曰：“请问其目。”子曰：“非礼勿视，非礼勿听，非礼勿言，非礼勿动。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 1203,
+      "sourcename": "《颜渊》",
+      "paragraphs": [
+        {
+          "text": "司马牛问仁。子曰：“仁者，其言也讱。”曰：“其言也讱，斯谓之仁已乎？”子曰：“为之难，言之得无讱乎？”",
+          "format": {}
+        }
+      ]
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）（4 分）答案示例：",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "①刚：不为欲望所动　②毅：意志坚强",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "③木：质朴　④讷：慎言",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "【评分参考】一点1分。意思对即可。如答其它合理亦可。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）（6 分）答案示例：",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "花言巧语，伪善的面貌，这种人是很少有仁德的，而“木”是质朴，不矫饰，态度诚恳，为人朴实，所以“近仁”。仁人言语迟钝，因为明白做事不易，所以说话慎重，“讷”即慎言，言语不轻易出口，说话谨慎。所以“近仁”。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "【评分参考】每一种品德的分析 3 分。",
+      "format": {}
+    }
+  ]
+}

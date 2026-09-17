@@ -1,0 +1,117 @@
+{
+  "id": "202301-cpgsqm",
+  "title": "2023·昌平高三期末",
+  "year": "2022-2023",
+  "month": 202301,
+  "source": "昌平",
+  "grade": 3,
+  "type": "期末",
+  "number": 11,
+  "score": 10,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 203,
+      "sourcename": "《为政》",
+      "paragraphs": [
+        {
+          "text": "子曰：“道之以政，齐之以刑，民免而无耻；道之以德，齐之以礼，有耻且格【1】。”",
+          "format": {
+            "marks": {
+              "underline": [
+                {
+                  "start": 4,
+                  "end": 13
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 1219,
+      "sourcename": "《颜渊》",
+      "paragraphs": [
+        {
+          "text": "季康子问政于孔子曰：“如杀无道，以就有道，何如？”孔子对曰：“子为政，焉用杀？子欲善而民善矣。君子之德风，小人之德草。草上之风，必偃。”",
+          "format": {
+            "marks": {
+              "underline": [
+                {
+                  "start": 59,
+                  "end": 66
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "note",
+      "text": "注释：【1】格：归服。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（1）请解释“道之以政，齐之以刑”与“草上之风，必偃”（4 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）请根据以上两则材料，阐释孔子的治国思想及其意义。（6 分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）（4 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "用政令来治理国家，用刑罚来规范百姓；",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "风朝哪个方向吹，草就朝哪个方向倒伏。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "【评分标准】每句 2 分，意思对即可。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）（6 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "治国思想：①用道德和礼制来治理社会。②为政者能以身作则。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "意义：略",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "【评分标准】孔子的为政思想每点 2 分，共 4 分；现实意义 2 分。意思对即可。",
+      "format": {}
+    }
+  ]
+}

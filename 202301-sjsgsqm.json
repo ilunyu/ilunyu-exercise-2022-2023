@@ -1,0 +1,137 @@
+{
+  "id": "202301-sjsgsqm",
+  "title": "2023·石景山高三期末",
+  "year": "2022-2023",
+  "month": 202301,
+  "source": "石景山",
+  "grade": 3,
+  "type": "期末",
+  "number": 11,
+  "score": 10,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。（10分）",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 524,
+      "sourcename": "《公冶长》",
+      "paragraphs": [
+        {
+          "text": "子曰：“孰谓微生高直？或乞醯焉，乞诸其邻而与之。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 1507,
+      "sourcename": "《卫灵公》",
+      "paragraphs": [
+        {
+          "text": "子曰：“直哉史鱼！邦有道，如矢；邦无道，如矢。君子哉蘧伯玉！邦有道，则仕；邦无道，则可卷而怀之。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 1318,
+      "sourcename": "《子路》",
+      "paragraphs": [
+        {
+          "text": "叶公语孔子曰：“吾党有直躬者，其父攘羊，而子证之。”孔子曰：“吾党之直者异于是：父为子隐，子为父隐。——直在其中矣。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）孔子对“直”的阐释丰富。请结合上述语句中有关微生高、史鱼的内容，解释“直”的含义。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）上述叶公和孔子的对话与下面材料中的法律条文，有怎样的内在联系？请说说你的看法。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": -1,
+      "sourcename": "《中华人民共和国刑事诉讼法》第一百九十三条",
+      "paragraphs": [
+        {
+          "text": "经人民法院通知，证人没有正当理由不出庭作证的，人民法院可以强制其到庭，但是被告人的配偶、父母、子女除外。",
+          "format": {}
+        }
+      ]
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）（4 分）答案示例：",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "有人向微生高讨醋，他却向邻居讨醋给那个人。孔子指出微生高没有做到直来直往，有欺瞒，“直”，直爽，坦诚，诚实。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "在政治清明时，史鱼像箭一样直；在政治黑暗时，史鱼也像箭一样直。孔子赞扬史鱼坚守自己的价值理想，“直”，刚直不屈。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "（2）（6 分）答案示例：",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "二者的内在联系：在客观事实面前，如何处理人情。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "叶公与孔子对话，对父亲偷羊一事，叶公认可儿子依实告发，孔子认可儿子隐瞒，并扩展为在同样情景中父也为子隐瞒。孔子关注血缘情感，重视“齐家”，父子至情，隐含着可以不为客观公正而放弃的意思。两人观点对立，可理解为法与情对立的一种表现。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "人民法院不强制被告人的配偶、父母、子女出庭作证，这与孔子谈的“直”有一致性，允许一些人可以不“大义灭亲”，这是在法治中对人情的顺应与尊重，在一定程度上平衡了法治与人情的关系。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "id": "202305-fsgsem",
+  "title": "2023·房山二模",
+  "year": "2022-2023",
+  "month": 202305,
+  "source": "房山",
+  "grade": 3,
+  "type": "二模",
+  "number": 11,
+  "score": 10,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 401,
+      "sourcename": "《里仁》",
+      "paragraphs": [
+        {
+          "text": "子曰：“里仁为美，择不处仁，焉得知！”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 402,
+      "sourcename": "《里仁》",
+      "paragraphs": [
+        {
+          "text": "子曰：“不仁者，不可以久处约，不可以长处乐。仁者安仁，知者利仁。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 623,
+      "sourcename": "《雍也》",
+      "paragraphs": [
+        {
+          "text": "子曰：“知者乐水，仁者乐山。知者动，仁者静。知者乐，仁者寿。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料④",
+      "sourceid": 626,
+      "sourcename": "《雍也》",
+      "paragraphs": [
+        {
+          "text": "宰我问曰：“仁者，虽告之曰：‘井有仁焉。’其从之也？”子曰：“何为其然也？君子可逝也，不可陷也；可欺也，不可罔也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料⑤",
+      "sourceid": 1428,
+      "sourcename": "《宪问》",
+      "paragraphs": [
+        {
+          "text": "子曰：“君子道者三，我无能焉。仁者不忧，知者不惑，勇者不惧。”子贡曰：“夫子自道也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）对于第①则的“里”，有人认为其意为“居住”，有人认为其意为“居住在……的地方”。请根据这两种不同理解，分别解释“里仁为美”的意思。（2 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）请简要分析第④则中“仁者”的表现。（4 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（3）请根据第①②③⑤四则，概括孔子对仁者和知者的看法。（4 分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）（2 分）参考答案：",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "①以仁为人心的安居之地是好事。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "②居住在有仁厚之风的地方是好事。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "【评分细则】写准 1 种句意，得 1 分；写准 2 种句意，得 2 分；意思对即可得分。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）（4 分）要点：",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "①仁者有爱心，因为他听说井中有人后，会前去了解情况；如果井中真的有人需要援救，他会尽力去救。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "②仁者有智慧，因为他听说井中有人后，会受到欺骗，但能辨别真伪，不会糊里糊涂地让自己被陷害。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "【评分细则】答出 1 条，得 2 分；答出 2 条，得 4 分；共 4 分；意思对或言之成理均可得分。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（3）（4 分）要点：",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "①仁者以仁德为立身的根本，知者以仁德为立身的选择。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "②仁者因具备仁德而安心，知者因追求仁德而得利。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "③仁者像山，厚重而宽容，沉稳而宁静，其美德长留于人心；知者像水，通达事理，敏捷灵活，常有安乐的心态。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "④仁者关爱他人，不会为私利而忧虑不安；知者通晓道义，不会被迷惑。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "【评分细则】答出 1 条，得 2 分；答出 2 条，得 4 分；共 4 分；意思对或言之成理均可得分。",
+      "format": {}
+    }
+  ]
+}

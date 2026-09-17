@@ -1,0 +1,109 @@
+{
+  "id": "202212-dxgsqm",
+  "title": "2023·大兴高三期末",
+  "year": "2022-2023",
+  "month": 202212,
+  "source": "大兴",
+  "grade": 3,
+  "type": "期末",
+  "number": 11,
+  "score": 6,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 115,
+      "sourcename": "《论语·学而》",
+      "paragraphs": [
+        {
+          "text": "子贡曰：“贫而无谄，富而无骄，何如？”子曰：“可也。未若贫而乐，富而好礼者也。”子贡曰：“《诗》云：‘如切如磋！如琢如磨’，其斯之谓与？”子曰：“赐也！始可与言《诗》已矣，告诸往而知来者。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 308,
+      "sourcename": "《论语·八佾》",
+      "paragraphs": [
+        {
+          "text": "子夏问曰：“‘巧笑倩兮，美目盼兮，素以为绚兮。’何谓也？”子曰：“绘事后素。”曰：“礼后乎？”子曰：“起予者商也，始可与言《诗》已矣。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "11. 对上面两则材料，下列理解与推断不正确的一项是（3 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "A. 子贡理解了《诗经》中诗句的道理：人有了好的品质，还要致力于更高的精神追求。",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "B. 子夏探寻出《诗经》中诗句的言外之意：人要有美好的品质，礼是建立在美好品质之后的。",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "C. 孔子认为子贡从“贫而无谄，富而无骄”联想到“贫而乐、富而好礼”的道理是举一反三。",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "D. 孔子认为子夏从“绘事后素”联想到“礼后”是能由此及彼，是善于学习的表现。",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "12. 从上面两则材料，我们能看出孔子什么样的教育观？（3 分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "11. （3 分）C",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "12. （3 分）答案示例：启发式教育；因人施教；举一反三；重视《诗经》学习，更重视对《诗经》活学活用。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "答出三个要点，每点1分。意思对即可。",
+      "format": {}
+    }
+  ]
+}

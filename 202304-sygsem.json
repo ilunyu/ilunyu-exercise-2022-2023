@@ -1,0 +1,127 @@
+{
+  "id": "202304-sygsem",
+  "title": "2023·顺义二模",
+  "year": "2022-2023",
+  "month": 202304,
+  "source": "顺义",
+  "grade": 3,
+  "type": "二模",
+  "number": 11,
+  "score": 10,
+  "question": [
+    {
+      "type": "regular",
+      "text": "请阅读下面《论语》的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料①",
+      "sourceid": 224,
+      "sourcename": "《为政》",
+      "paragraphs": [
+        {
+          "text": "子曰：“非其鬼而祭之，谄也。见义不为，无勇也。”",
+          "format": {
+            "marks": {
+              "underline": [
+                {
+                  "start": 4,
+                  "end": 10
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料②",
+      "sourceid": 810,
+      "sourcename": "《泰伯》",
+      "paragraphs": [
+        {
+          "text": "子曰：“好勇疾贫，乱也。人而不仁，疾之已甚，乱也。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料③",
+      "sourceid": 1723,
+      "sourcename": "《阳货》",
+      "paragraphs": [
+        {
+          "text": "子路曰：“君子尚勇乎？”子曰：“君子义以为上。君子有勇而无义为乱，小人有勇而无义为盗。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "blocktitle": "材料④",
+      "sourceid": 1724,
+      "sourcename": "《阳货》",
+      "paragraphs": [
+        {
+          "text": "子贡曰：“君子亦有恶乎？”子曰：“有恶。恶称人之恶者，恶居下流而讪上者，恶勇而无礼者，恶果敢而窒【1】者。”曰：“赐也亦有恶乎？”“恶徼【2】以为知者，恶不孙【3】以为勇者，恶讦以为直者。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "注释：【1】窒，固执。【2】徼，抄袭。【3】孙，同“逊”。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（1）解释材料中画横线的句子。（3 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）结合上述语段，概括孔子、子贡对“勇”的认识。（4 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（3）《红楼梦》第五十二回回目是《俏平儿情掩虾须镯勇晴雯病补雀金裘》，请结合上述材料，简述你对晴雯病补雀金裘之“勇”的理解。（3 分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）参考：不是自己应当祭祀的鬼神，而去祭祀他，这是谄媚。（3分）",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "（2）孔子赞同见义勇为。（1分）认为“勇”应与“义”结合在一起，需要用“义”来节制。（1分）孔子认为一味好勇，而厌恶贫穷，容易犯上作乱。（1分）孔子、子贡认为“勇”也要用“礼”来节制。（1分）",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "（3）言之成理，即可得分。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "id": "202301-tzgsqm",
+  "title": "2023·通州高三期末",
+  "year": "2022-2023",
+  "month": 202301,
+  "source": "通州",
+  "grade": 3,
+  "type": "期末",
+  "number": 11,
+  "score": 10,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 101,
+      "sourcename": "《学而》",
+      "paragraphs": [
+        {
+          "text": "子曰：“学而时习之，不亦说乎？有朋自远方来，不亦乐乎？”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 611,
+      "sourcename": "《雍也》",
+      "paragraphs": [
+        {
+          "text": "子曰：“贤哉，回也！一箪食，一瓢饮，在陋巷，人不堪其忧，回也不改其乐。贤哉，回也！”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 716,
+      "sourcename": "《述而》",
+      "paragraphs": [
+        {
+          "text": "子曰：“饭疏食饮水，曲肱而枕之，乐亦在其中矣。不义而富且贵，于我如浮云。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 719,
+      "sourcename": "《述而》",
+      "paragraphs": [
+        {
+          "text": "叶公问孔子于子路，子路不对。子曰：“女奚不曰，其为人也，发愤忘食，乐以忘忧，不知老之将至云尔。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "material",
+      "sourceid": 737,
+      "sourcename": "《述而》",
+      "paragraphs": [
+        {
+          "text": "子曰：“君子坦荡荡，小人常戚戚。”",
+          "format": {}
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）下列对语段中的词语、句子的理解，不正确的一项是（ ）",
+      "format": {
+        "marks": {
+          "emphasis": [
+            {
+              "start": 19,
+              "end": 22
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "A. 有朋自远方来　这里的“朋”是指志同道合的人",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        },
+        "marks": {
+          "emphasis": [
+            {
+              "start": 4,
+              "end": 5
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "B. 回也不改其乐　这里的“其乐”是指颜回的“安贫乐道”",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        },
+        "marks": {
+          "emphasis": [
+            {
+              "start": 7,
+              "end": 9
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "C. 不义而富且贵，于我如浮云　做不正当的事而得来的富贵，我看好像浮云",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "D. 小人常戚戚　小人常常表现出可怜的样子",
+      "format": {
+        "indent": {
+          "kind": "paragraph",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "（2）结合以上语段，简要分析孔子追求“道”的态度。",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）D",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "本题考查学生理解文言实词和句子意义的能力。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "A. 正确。句意：有志同道合的朋友从远方来。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "B. 正确。句意：颜回没有改变他好学的乐趣。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "C. 正确。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "D.“可怜的样子”错。应为忧愁的样子。句意：小人常常表现出忧愁的样子。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）①“乐”字最能体现出孔子追求“道”的态度,表现在他积极、乐观的人生态度上。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "②有志同道合的人从远方来谈论道,孔子就非常高兴。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "③孔子赞美颜回“安贫乐道”，也是表明自己“安贫乐道”的思想。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "④孔子自谦自己对大道的追求，是一种忘我的境界，体现出他积极、乐观的态度。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "⑤强调在追求“道”的过程中,要心地坦荡。",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "参考译文：",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "孔子说：“学习并且按时地去复习，不也很快乐吗？有志同道合的人从远方来，不也很高兴吗？”（《学而》）",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "孔子说：“颜回的品质是多么高尚啊！一竹篮饭，一瓢水，住在简陋的小巷子里，别人都忍受不了这种穷困清苦，颜回却没有改变他好学的乐趣。颜回的品质是多么高尚啊！”（《雍也》）",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "孔子说：“我整天吃粗粮，喝冷水，弯着胳膊做枕头，也自得其乐。用不正当的手段得来的富贵，我把它看作天上的浮云。”（《述而》）",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "叶公向子路了解孔子的为人，子路没有回答。孔子对子路说：“你为什么不这样说，他这个人，发愤用功而忘记了吃饭，乐于追求道义而忘记了忧愁，不知道衰老将要到来等等。”（《述而》）",
+      "format": {}
+    },
+    {
+      "type": "note",
+      "text": "孔子说：“君子心胸宽广坦荡，而小人则时常陷入忧思之中。”（《述而》）",
+      "format": {}
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "202303-pggsym",
+  "title": "2023·平谷一模",
+  "year": "2022-2023",
+  "month": 202303,
+  "source": "平谷",
+  "grade": 3,
+  "type": "一模",
+  "number": 11,
+  "score": 5,
+  "question": [
+    {
+      "type": "regular",
+      "text": "阅读下面《论语》中的文字，回答问题。",
+      "format": {}
+    },
+    {
+      "type": "material",
+      "sourceid": 2001,
+      "sourcename": "《论语·尧曰》",
+      "paragraphs": [
+        {
+          "text": "谨权量，审法度，修废官，四方之政行焉；兴灭国，继绝世，举逸民，天下之民归心焉。",
+          "format": {}
+        },
+        {
+          "text": "所重：民、食、丧、祭。",
+          "format": {}
+        },
+        {
+          "text": "宽则得众，信则民任焉，敏则有功，公则说。",
+          "format": {
+            "marks": {
+              "underline": [
+                {
+                  "start": 0,
+                  "end": 20
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "type": "regular",
+      "text": "（1）翻译划横线句子。（2 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）这三段文字是孔子对三代以来美德善政的高度概括，也是《论语》全书中治国思想的总结。请结合三段文字，分析孔子理想中的“美德善政”所包含的具体内容。（3 分）",
+      "format": {}
+    }
+  ],
+  "answer": [
+    {
+      "type": "regular",
+      "text": "（1）（2 分）翻译：",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "宽厚就会得到众人的拥护，诚恳守信就会得到民众的信任，勤敏就能取得功绩，公正大家就心悦诚服。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "【评分标准】“则”“敏”“说”每错一处扣 1 分;句中有其他理解错误及表述不当之处，酌情扣分；2 分扣完为止。意思对即可。",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "（2）（3 分）",
+      "format": {}
+    },
+    {
+      "type": "regular",
+      "text": "①“谨权量，审法度，修废官”，是要建立一套行之有效的制度，有法可依，社会才有秩序可言，才能实现“四方之政行焉”。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "②“兴灭国，继绝世，举逸民”是对已有传统的继承，颠覆前代的同时，还要有继承，有发展。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "③“所重四者”是围绕百姓生活的四个方面来说的，是民本思想的体现。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "regular",
+      "text": "④“宽、信、敏、公”都是帝王治理天下所必须的人格品质，目的就是获得百姓信服、拥护。",
+      "format": {
+        "indent": {
+          "kind": "firstLine",
+          "level": 2
+        }
+      }
+    },
+    {
+      "type": "note",
+      "text": "【评分标准】任意答出三点，给满分。",
+      "format": {}
+    }
+  ]
+}
