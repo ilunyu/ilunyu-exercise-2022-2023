@@ -180,7 +180,10 @@ def main() -> int:
         help="Directory containing exercise JSON files (default: repository root).",
     )
     root = parser.parse_args().root.resolve()
-    paths = sorted(path for path in root.glob("*.json") if path.is_file())
+    paths = sorted(
+        path for path in root.glob("*.json")
+        if path.is_file() and path.name != "resource.json"
+    )
     errors = [error for path in paths for error in validate_exercise(path)]
     if errors:
         print("Exercise validation failed:", file=sys.stderr)
