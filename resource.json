@@ -2,8 +2,8 @@
   "packageId": "exercise.2022-2023",
   "kind": "exercise",
   "name": "2022—2023 学年试题",
-  "versionName": "1.0.0",
-  "versionCode": 1,
+  "versionName": "1.0.1",
+  "versionCode": 2,
   "minAppVersionCode": 1,
   "license": "All rights reserved"
 }
